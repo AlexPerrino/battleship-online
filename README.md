@@ -1,5 +1,5 @@
 # battleship-online
-Server based battleship game which can host multiple games between pairs of players (written in Java).
+Server based battleship game which can host multiple games between pairs of players.
 
 The server awaits connections from two players before starting a game between them, and then waits for the next pair of players.
 Players are able to join by inputting the server's IP address into their client from the "game lobby". Instructions as to how to 
